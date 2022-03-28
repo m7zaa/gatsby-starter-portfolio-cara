@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Micah`,
     siteTitleAlt: `Micah`,
     siteHeadline: ``,
-    siteUrl: ``,
+    siteUrl: `https://cara.lekoarts.de`,
     siteDescription: ``,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
